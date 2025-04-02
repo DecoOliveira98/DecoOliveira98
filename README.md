@@ -3,6 +3,8 @@
 Computer Science student focused on software development.  
 Exploring both front-end and back-end technologies, with experience in Python, Java, JavaScript, HTML5, and CSS.
 
+Currently learning about **Blockchain** and its potential applications.
+
 🎯 Currently seeking opportunities to apply my knowledge in real-world projects and grow with modern technologies.
 
 🎮 Passionate about artificial intelligence, software engineering, and gaming.  
