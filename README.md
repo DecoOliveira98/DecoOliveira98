@@ -1,5 +1,3 @@
-#👋 Hello! I'm André Oliveira
-
 [<img src="aloliveira98@outlook.com.gif" alt="👋 Hi there! I'm (Andre Oliveira)|(https://decooliveira98.github.io/Andre.git.io/))" title="👋 Hi there! I'm (Andre Oliveira)|(https://decooliveira98.github.io/Andre.git.io/))"/>](https://decooliveira98.github.io/Andre.git.io/)
 
 Computer Science student focused on software development.  
