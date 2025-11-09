@@ -1,5 +1,7 @@
 [<img src="aloliveira98@outlook.com.gif" alt="👋 Hi there! I'm (Andre Oliveira)|(https://decooliveira98.github.io/Andre.git.io/))" title="👋 Hi there! I'm (Andre Oliveira)|(https://decooliveira98.github.io/Andre.git.io/))"/>](https://decooliveira98.github.io/Andre.git.io/)
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=DecoOliveira98.DecoOliveira98&color=00cf00)
+
 Computer Science student focused on software development.  
 Exploring both front-end and back-end technologies, with experience in Python, Java.
 
