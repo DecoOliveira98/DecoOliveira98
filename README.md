@@ -11,7 +11,16 @@ alt="👋 Hi there! I'm Andre Oliveira" title="👋 Hi there! I'm Andre Oliveira
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecoOliveira98&layout=compact&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DecoOliveira98&show_icons=true&theme=tokyonight)
-![GitHub Snake Animation](https://github.com/DecoOliveira98/DecoOliveira98/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🐍 Watch my contributions come alive
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DecoOliveira98/DecoOliveira98/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DecoOliveira98/DecoOliveira98/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/DecoOliveira98/DecoOliveira98/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
 
